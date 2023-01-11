@@ -1,2 +1,1 @@
-# PrepCourse-Guille
-Este es un repositorio de prueba
+proyecto de prueba de como rear un repositorio y clonarlo desde github a mi escritorio
